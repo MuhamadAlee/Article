@@ -1,0 +1,12 @@
+sentence-splitter
+transformers
+SentencePiece
+torch
+googlesearch-python
+newspaper3k
+GoogleNews
+spacy
+nltk
+jupyter
+selenium
+gensim==3.8.3 
